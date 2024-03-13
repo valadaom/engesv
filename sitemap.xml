@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>https://www.engesv.com.br/</loc>
+      <lastmod>2024-03-01</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://www.engesv.com.br/#OqueFazemos</loc>
+      <lastmod>2024-03-01</lastmod>
+      <priority>1.00</priority>
+   </url>
+   <url>
+      <loc>https://www.engesv.com.br/#NossosServicos</loc>
+      <lastmod>2024-03-01</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://www.engesv.com.br/#SobreNos</loc>
+      <lastmod>2024-03-01</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://www.engesv.com.br/#Contato</loc>
+      <lastmod>2024-03-01</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <!-- Adicione mais URLs conforme necessário -->
+</urlset>
