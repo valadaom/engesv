@@ -8221,12 +8221,12 @@ h1, h2, h3, h4, h5,
   @media (max-width: 768.98px) {
     .hero-wrap {
       height: 225px; 
-      background-image: url(images/engesvbg.png) !important;}
+      background-image: url(images/bg_new_m.png) !important;}
       .hero-wrap .overlay {
         height: 0px; } 
       .hero-wrap-2{
         height: 225px !important;
-        background-image: url(images/engesvbg.png) !important;}
+        background-image: url(images/bg_new_m.png) !important;}
       }
   .hero-wrap.hero-wrap-2 {
     height: 700px !important;
